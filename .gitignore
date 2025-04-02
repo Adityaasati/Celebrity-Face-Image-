@@ -1,0 +1,11 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment directories
+pytorch_venv/
+
+# Ignore other unnecessary files
+.DS_Store
